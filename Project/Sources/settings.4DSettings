@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="3">
+	<com.4d>
+		<database>
+			<cache adaptative="true" flush_buffer_delay="20s" size_fixed="8000"/>
+		</database>
+		<server>
+			<network>
+				<options publication_name="Benchmark_array"/>
+			</network>
+		</server>
+	</com.4d>
+</preferences>
